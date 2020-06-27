@@ -1,0 +1,26 @@
+{
+    "name": "ABT Dragon",
+    "main": "index.html",
+    "js-flags": "--expose-gc",
+    "window": {
+        "title": "",
+        "toolbar": false,
+        "width": 816,
+        "height": 624,
+        "icon": "icon/icon.png"
+    },
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "0.1.8",
+  "description": "ABT Dragon Game created with RPG Maker Game and Blocklet",
+  "blocklet": {
+    "group": "static",
+    "color": "primary",
+    "main": ".",
+    "provider": "hacker",
+    "admin_url": "",
+    "config_url": "",
+    "public_url": "/"
+  }
+}
